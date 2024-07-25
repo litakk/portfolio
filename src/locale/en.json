@@ -1,0 +1,26 @@
+{
+    "translation": {
+        "lang": "English",
+        "specificKey": "Translated Value",
+        "nav": {
+            "about":"About",
+            "team":"Team",
+            "blog":"Blog",
+            "products":"Products",
+            "contacts":"Contacts",
+            "login":"Login"
+        },
+        "carousel": {
+            "title": "Hedge Fund",
+            "subtitle": "A classic choice for professional investors with moderate risk parameters. Based on investing in S&P 500 index securities with diversification across 11 economic sectors.",
+            "button": "More Details"
+        },
+        "about": {
+            "title": "About Us",
+            "p1": "Our Team successfully operates in several investment markets. The wealth of choice of tools in these markets allows Us to successfully preserve and multiply the capital of clients.",
+            "p2": "Both professional investors and private individuals who are just beginning to discover new perspectives can enter into partnership with Fonte. Our jurisdiction is the International Financial Center “Astana” (IFCA). Comfortable tax conditions and regulatory policies provide the necessary freedoms and advantages to achieve investment goals.",
+            "p3": "In partnership with Fonte Capital LTD, investors have the opportunity to use not only proven strategies, but also jointly develop personal investment solutions.",
+            "lycences": "Licences"
+        }
+    }
+}

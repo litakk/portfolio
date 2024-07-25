@@ -1,0 +1,25 @@
+@import '../../assets/styles/settings';
+
+#products-wrapper {
+    padding: 100px;
+
+
+    .container {
+        margin: 50px 0;
+
+        button {
+            margin-right: 5px;
+        }
+
+        .joke-content {
+            width: 50%;
+            margin: 50px auto 20px auto;
+
+            h3 {
+                margin-top: 10px;
+                text-align: right;
+                color: yellowgreen;
+            }
+        }
+    }
+}
