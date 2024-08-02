@@ -44,7 +44,7 @@ function Footer(props) {
                     <Link to={"https://www.facebook.com"}>
                         <img src={Facebook} alt="Facebook" width={50} height={50} />
                     </Link>
-                    <Link to={"https://www.instagram.com/alisher_khujanov"}>
+                    <Link to={"https://www.instagram.com"}>
                         <img src={Instagram} alt="Instagram" width={50} height={50} />
                     </Link>
                     <Link to={"https://www.twitter.com"}>

@@ -3,7 +3,6 @@ import SecondImage from "../../assets/images/team/2.png"
 import ThirdImage from "../../assets/images/team/3.png"
 import FourthImage from "../../assets/images/team/4.jpg"
 import FifthImage from "../../assets/images/team/5.jpg"
-import SixthImage from "../../assets/images/team/6.jpg"
 
 function Team(props) {
     return (
@@ -37,8 +36,8 @@ function Team(props) {
                         <p>CEO</p>
                     </div>
                     <div className="member">
-                        <img src={SixthImage} alt="Member" width={150} height={150} />
-                        <h4>Alisher Xujanov</h4>
+                        <img src={FourthImage} alt="Member" width={150} height={150} />
+                        <h4>EsedNode Muxaev</h4>
                         <p>CEO</p>
                     </div>
                 </div>

@@ -13,15 +13,15 @@ function Contacts(props) {
                     <Heading size={1.5}>Контакты</Heading>
                     <div className='info'>
                         <h4>Задайте нам любой вопрос</h4>
-                        <p>+998 33 4747477</p>
+                        <p>(202) 555-0123</p>
                     </div>
                     <div className='info'>
                         <h4>Электронная почта</h4>
-                        <p>alisherxujanov163@gmail.com</p>
+                        <p>test123@gmail.com</p>
                     </div>
                     <div className='info'>
                         <h4>Юридический адрес</h4>
-                        <p>050040/A15E3H4, проспект Изучай-React, 24/7, 2 этаж, Samarkand, Uzbekistan Z05T3D0, проспект Мангилик Ел, 55/20, Офисы 345-346, Астана, Казахстан</p>
+                        <p>1234 Innovation Blvd, Suite 500, Tech City, CA 90210, USA</p>
                     </div>
                 </div>
                 <div className="right">
