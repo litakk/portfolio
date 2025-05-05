@@ -15,5 +15,6 @@ Here are some screenshots of the project:
 *Main page of the project showcasing the primary layout and design.*
 
 ![Mobile Homepage](project-images/mobile-homepage.png)
+
 *Mobile version of the main page, highlighting responsive design and mobile-specific layout.*
 
